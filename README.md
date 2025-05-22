@@ -4,7 +4,7 @@ Automated TikTok video uploader using Python and TikTok's web API.
 
 ## ⚠️ Warning
 
-This program **does not generate x-bogus headers** which are part of TikTok's anti-bot protection. Using this tool may result in account flagging or banning. Use at your own risk and consider using throwaway accounts.
+This program **does not generate x-bogus and signature headers** which are part of TikTok's anti-bot protection. Using this tool may result in account flagging or banning. Use at your own risk and consider using throwaway accounts.
 
 ## 📸 Showcase
 
