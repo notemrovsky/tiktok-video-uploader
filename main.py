@@ -422,7 +422,7 @@ class TikTokUploader:
 
 
 def main() -> None:
-    uploader = TikTokUploader("/home/emrovsky/Desktop/tiktok-gen/accounts/free_r0bux_ipxbdn/cookie.json")
+    uploader = TikTokUploader("cookie.json")
     result = uploader.upload_video("gta5_1.mp4", "shqtz got no balls :3")
     if result:
         print(f"Upload successful: {result}")
